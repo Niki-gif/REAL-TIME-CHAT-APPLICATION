@@ -1,12 +1,15 @@
-# React + Vite
+# INTERACTIVE-QUIZ-APPLICATION
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*COMPANY*: CODTECH IT SOLUTIONS
 
-Currently, two official plugins are available:
+*NAME*: NIKITA GANESH JANNU
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*INTERN ID*: CT12WURI
 
-## Expanding the ESLint configuration
+*DOMAIN*: FRONTEND DEVELOPMENT
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*DURATION*: 12 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+*DESCRIPTIION*: This REAL TIME CHAT application is a great project to practice YUE.js or react.js, JavaScript, HTML, and CSS. It reinforces key programming concepts, including event handling, DOM manipulation, and conditional logic. The final product is a fully functional quiz that provides an engaging user experience. And IM using VS code tool.
